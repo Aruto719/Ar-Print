@@ -7,4 +7,5 @@ Superscript, subscript, arrows...
 - JapaneseSymbol<br>
 Japanese full stop("。"), comma("、"), Japanese long vowel mark("ー")...
 - kanken-10<br>
-*Kanji* in "The Japan Kanji Aptitude Test" grade 10. This support 80 characters.
+*Kanji* in "The Japan Kanji Aptitude Test" grade 10.<br>
+80 *kanji*s in this.
